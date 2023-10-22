@@ -1,0 +1,361 @@
+
+.navigation-item_selected {
+    font-family: Mont;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 950;
+    line-height: normal;
+    background: linear-gradient(90deg, rgba(0, 97, 253, 0.80) 0%, #BCD6FF 89.5%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;  
+}
+.navigationitem1 {
+    width: 3.875rem;
+height: 1rem;
+color: black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.navigationitem2 {
+    width: 3.25rem;
+height: 1rem;
+color:black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.navigationitem3 {
+     
+}
+.search more {
+    color: black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.title Alpha {
+text-shadow: 0px 2px 2px 
+font-family:Mont;
+font-size:1.5rem;
+font-style:normal;
+font-weight:800;
+
+}
+
+
+
+.list1 {
+    width: 9.6875rem;
+height: 1rem;
+flex-shrink: 0;
+color:black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal; 
+}
+.list
+  
+ .list3{
+ }   
+ .list4 {
+width: 3rem;
+height: 1rem;
+flex-shrink: 0;
+color: black;
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .list5{
+    width: 9.6875rem;
+height: 1rem;
+flex-shrink: 0;
+
+color: black;
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .list6 {
+    idth: 9.6875rem;
+height: 1rem;
+flex-shrink: 0;
+
+color: black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .list7{
+    width: 3.4375rem;
+    height: 1rem;
+    flex-shrink: 0;
+    color: black;
+    font-family: Mont;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+ }
+ .list8{
+    color: black;
+font-family: Mont;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+ }
+ .list9{
+    color: black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .list10{
+    color:black;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .link11{
+color:black;
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .link12{
+    color: #FFF;
+
+font-family: Mont;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+.logo {
+    width: 12.75rem;
+height: 17.125rem;
+flex-shrink: 0;
+}
+.text Valheim {
+    width: 12.75rem;
+color:black;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text Action Games{
+    color: black;
+
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;  
+}
+.text8.15 {
+    color:#FFF;
+font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+}
+.text Bioshock{
+    width: 12.75rem;
+    color:black;
+    
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;  
+}
+.text Action, RPG {
+    color:black ;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.text 80%{
+    width: 2.5rem;
+    height: 1rem;
+    color: #38571A;
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+.text50{
+    color: black
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-decoration-line: strikethrough;
+    
+}
+.text8,67${
+    color: #FFF;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal.
+}
+
+.textUnravel Two{
+    width: 12.75rem;
+    color: #FFF;
+    
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+.text Adventure Games{
+    color:black;
+
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+}
+.text 20,38 {
+    color: #FFF;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text Tick Tock {
+    width: 12.75rem;
+    color:black;
+    
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+.text Indie Games{
+    color:black(235, 235, 245, 0.60);
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text 60%{
+    width: 2.5rem;
+    height: 1rem;
+    color: #38571A;
+    
+    font-family: Mont;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600; 
+    line-height: normal;
+}
+color: rgba(235, 235, 245, 0.60);
+.text 3.47 {
+    color: rgba(235, 235, 245, 0.60);
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-decoration-line: strikethrough;  
+}
+.text 1.39{
+    color: rgba(235, 235, 245, 0.60);
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-decoration-line: strikethrough;
+}
+.text HITMAN3 {
+    width: 12.75rem;
+color:black;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text Action Games {
+    color:black(235, 235, 245, 0.60);
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text $23.99 {
+    color: #FFF;
+
+font-family: Mont;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+
+
+
+
+
+
+
